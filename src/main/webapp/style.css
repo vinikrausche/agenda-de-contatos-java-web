@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@1,300&display=swap');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	color: #0a9396;
+	background-color: #001524;
+}
+
+.botao1{
+	background-color: #118ab2;
+	color: #fff;
+	padding: 5px 10px;
+	font-weight: 700;
+	font-size: 1.2em;
+	border-radius: 5px;
+	text-decoration:none;
+}
+
+.input{
+	padding:15px;
+	background-color: #001524;
+	color: #fff;
+	outline-color:#118ab2; 
+	border: 1px solid #118ab2;
+	margin-bottom: 15px;
+}
+
